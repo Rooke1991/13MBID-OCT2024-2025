@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT24-25
-ESTUDIANTE: <ROQUE ALVAREZ BENALCAZAR>
+ESTUDIANTE ROQUE: ROQUE ALVAREZ BENALCAZAR
 
 ## Descripción del contenido
 
